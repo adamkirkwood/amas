@@ -155,7 +155,7 @@
 - [CY Lim](https://github.com/cylim/ama) - Full-stack JavaScript digital nomad.
 - [Hamza Baig](https://github.com/hamxabaig/ama) - Full-stack JavaScript engineer. Passionate about Artificial Intelligence.
 - [Frédéric Harper](https://github.com/fharper/ama) - Developer Advocate at npm, former Mozilla & Microsoft one, Apress author, public speaker, #crazycatman & more.
-- [Adam Kirkwood](https://github.com/adamkirkwood/amas) - Product Designer at @fb. Previously @IBMDesign and @Recurly. Creator of @Sketchpacks. ❤️ Ruby, Rails, React, and GraphQL are my jams.
+- [Adam Kirkwood](https://github.com/adamkirkwood/amas) - Product Designer at [Facebook](https://facebook.com). Previously [IBM](https://ibm.com/design) and [Recurly](https://recurly.com). Creator of [Sketchpacks](https://sketchpacks.com). ❤️ Ruby, Rails, React, and GraphQL are my jams.
 
 #### Ask these organizations anything!
 
